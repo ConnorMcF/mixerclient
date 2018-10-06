@@ -21,6 +21,8 @@ mixer.on('ready', async () => {
         }
     })
 })
+
+mixer.init()
 ```
 No token? Go to https://connormcf.com/mixeroauth/.
 
